@@ -3,7 +3,9 @@ Java Universal Toolkit
 A modular console-based Java toolkit that provides multiple utilities including mathematical operations, number utilities, arithmetic operations, financial calculations, and unit conversions.
 Designed with structured menus and modular OOP-based architecture.
 
-Features Overview
+Features Overview :-
+
+
 1. Math Toolkit
 
 Provides core mathematical utilities:
@@ -22,6 +24,8 @@ LCM Calculation
 
 Average Calculation
 
+
+
 2. Number Toolkit
 
 Utilities for number-based operations:
@@ -36,6 +40,8 @@ Reverse a Number
 
 Sum of Digits
 
+
+
 3. Arithmetic Toolkit
 
 Basic arithmetic operations:
@@ -48,6 +54,8 @@ Multiplication
 
 Division
 
+
+
 4. Finance Toolkit
 
 Financial computation utilities:
@@ -57,6 +65,8 @@ Simple Interest Calculation
 Compound Interest Calculation
 
 Percentage Calculation
+
+
 
 5. Conversion Toolkit
 
@@ -76,6 +86,8 @@ Weight Conversion
 
 Kilogram ↔ Gram
 
+
+
 How to Run the Project
 Option 1: Run Using JAR (Recommended)
 Requirements
@@ -89,7 +101,12 @@ Compile
 javac *.java
 Run
 java Main
+
+
+
 Sample Menu Output
+
+
 ========== JAVA UNIVERSAL TOOLKIT ==========
 
 1. Math Toolkit
