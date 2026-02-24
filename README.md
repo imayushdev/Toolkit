@@ -76,18 +76,6 @@ Weight Conversion
 
 Kilogram ↔ Gram
 
-Project Structure
-Toolkit/
- ├── src/
- │   ├── Main.java
- │   ├── MathToolkit.java
- │   ├── NumberToolkit.java
- │   ├── ArithmeticToolkit.java
- │   ├── FinanceToolkit.java
- │   └── ConversionToolkit.java
- ├── Toolkit.jar
- ├── README.md
- └── .gitignore
 How to Run the Project
 Option 1: Run Using JAR (Recommended)
 Requirements
